@@ -1,0 +1,1 @@
+Some simple implementations of cryptography codes in JavaScript. They are very simple, but poorly documented, just my initial tries with the subject using JavaScript. The codes implements some of the most classics cryptography examples and JWT, also includes some ideas of basics and well known attacks, like brute force or dictionary.
